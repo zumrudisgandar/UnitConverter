@@ -1,0 +1,62 @@
+.container {
+    padding: 2% 30%;
+}
+
+.header {
+    font-family: 'Inter', sans-serif;
+    background: #6943FF;
+    padding: 5% 0;
+    color: white;
+    text-align: center;
+    border: 2px solid;
+    font-size: 1.8rem;
+}
+
+input {
+    color: white;
+    background: transparent;
+    border: 2px solid #B295FF;
+    width: 20%;
+    margin-bottom: 3%;
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+}
+
+#convert-btn {
+    background: #ffffff;
+    border-radius: 4px;
+    font-family: Georgia;
+    color: #000000;
+    padding: 0.5% 3.5%;
+    font-size: 1.2rem;
+    border: none;
+}
+
+#convert-btn:hover {
+    background: #bc99f0;
+    background-image: -webkit-linear-gradient(top, #bc99f0, #ae7bfa);
+    background-image: -moz-linear-gradient(top, #bc99f0, #ae7bfa);
+    background-image: -ms-linear-gradient(top, #bc99f0, #ae7bfa);
+    background-image: -o-linear-gradient(top, #bc99f0, #ae7bfa);
+    background-image: linear-gradient(to bottom, #bc99f0, #ae7bfa);
+    text-decoration: none;
+}
+
+.converter {
+    background: #1F2937;
+    color: #CCC1FF;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 4% 0;
+}
+
+.subsec {
+    background: #273549;
+    margin: 5% 5%;
+    padding: 2% 0;
+}
+
+.unitval {
+    font-size: 1rem;
+    color: white;
+}
